@@ -16,8 +16,8 @@ namespace Tyuiu.KugaevskijSD.Sprint1.Task1.V18
             Console.WriteLine("---------------------------------------------------------------------------");
             Console.WriteLine("- Спринт #1                                                               -");
             Console.WriteLine("- Тема: Базовые навыки работы C#                                          -");
-            Console.WriteLine("- Задание #0                                                              -");
-            Console.WriteLine("- Вариант #29                                                             -");
+            Console.WriteLine("- Задание #1                                                              -");
+            Console.WriteLine("- Вариант #18                                                             -");
             Console.WriteLine("- Выполнил: Кугаевский Сергей Дмитриевич | АСОиУб-25-1                    -");
             Console.WriteLine("---------------------------------------------------------------------------");
             Console.WriteLine("- УСЛОВИЕ:                                                                -");
@@ -26,8 +26,6 @@ namespace Tyuiu.KugaevskijSD.Sprint1.Task1.V18
             Console.WriteLine("-                                                                         -");
             Console.WriteLine("---------------------------------------------------------------------------");
             Console.WriteLine("- ИСХОДНЫЕ ДАННЫЕ:                                                        -");
-            Console.WriteLine("---------------------------------------------------------------------------");
-            Console.WriteLine(" 2 * 9 + 7 * 2                                                            -");
             Console.WriteLine("---------------------------------------------------------------------------");
             Console.WriteLine("- РЕЗУЛЬТАТ:                                                              -");
             Console.WriteLine("---------------------------------------------------------------------------");
